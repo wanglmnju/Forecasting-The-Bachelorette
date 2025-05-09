@@ -24,7 +24,7 @@ Forecasting-The-Bachelorette/
 ├── data/
 │   └── contestants.csv                # Historical contestant data
 ├── README.md                          # Project documentation
-</pre>pre>
+</pre>
   
 📊 Key Features
 Exploratory Data Analysis (EDA) on contestant attributes
